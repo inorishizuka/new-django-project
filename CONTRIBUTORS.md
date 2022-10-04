@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ky Duong](https://github.com/inorishizuka)
+- Place: Orlando, FL, United States of America
+- Bio: Software Engineering Student 3rd Year, 2022/2023
+- GitHub: [InoriShizuka](https://github.com/inorishizuka)
